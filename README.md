@@ -44,6 +44,11 @@ The dashboard provides a cohesive view of key metrics with interactive features,
 
 ## Screenshots
 
+![Screenshot 2024-10-18 210118](https://github.com/user-attachments/assets/c57d39c6-90cb-4842-b455-30a970a845b7)
+
+![image](https://github.com/user-attachments/assets/630ced19-4037-4028-83b3-1c8ab623ef2b)
+
+
 ## Requirements
 
 - [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (latest version)
